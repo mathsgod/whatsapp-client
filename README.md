@@ -11,6 +11,10 @@ composer require mathsgod/whatsapp-client
 ```
 
 ## Usage
+You can generate token from https://business.facebook.com/settings/system-users/
+
+Phone number id is not phone number, find it in https://developers.facebook.com/apps/{app_id}/whatsapp-business/wa-dev-console/
+
 
 ### Send a text message
 ```php
