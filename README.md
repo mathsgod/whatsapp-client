@@ -34,7 +34,3 @@ $wa = new WhatsApp\Client($token, $phone_number_id);
 $wa->sendDocument("85298765432",$url,"document.pdf");
 
 ```
-
-```
-
-

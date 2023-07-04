@@ -1,5 +1,6 @@
 {
     "name": "mathsgod/whatsapp-client",
+    "description": "A PHP client for WhatsApp API",
     "license": "MIT",
     "authors": [
         {
